@@ -4942,7 +4942,7 @@ local function EXEKBZ_routine() -- Routine: StarterGui.YARHM.Forsaken
 	if (module.gameId ~= game.GameId) then
 		table.insert(module, {
 			Type = "Text",
-			Args = {"YARHM now includes an official <font color='#FFFF00'>Forsaken</font> module!"}
+			Args = {"Elite now includes an official <font color='#FFFF00'>Forsaken</font> module!"}
 		})
 		table.insert(module, {
 			Type = "Text",
